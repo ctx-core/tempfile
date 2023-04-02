@@ -1,4 +1,4 @@
-import { crypto } from '@ctx-core/crypto'
+import { crypto_ } from '@ctx-core/crypto'
 import { no_dom } from '@ctx-core/dom'
 import { url__join } from '@ctx-core/uri'
 /**
@@ -19,6 +19,7 @@ export async function tempfile_(dir_path, extension) {
 							fs.realpath(os.tmpdir())))
 			: null
 	}
+	const crypto = await crypto_()
 	return url__join([
 		...(dir_path ? [dir_path] : []),
 		`${crypto.randomUUID()}${
