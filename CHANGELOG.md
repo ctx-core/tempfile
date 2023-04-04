@@ -1,5 +1,11 @@
 # @ctx-core/tempfile
 
+## 1.0.6
+
+### Patch Changes
+
+- tempfile\_: arguments: extension = ''
+
 ## 1.0.5
 
 ### Patch Changes
