@@ -1,5 +1,11 @@
 # @ctx-core/tempfile
 
+## 1.0.9
+
+### Patch Changes
+
+- tempfile\_: no extension argument: fix: remove '.' to the end of the file name
+
 ## 1.0.8
 
 ### Patch Changes

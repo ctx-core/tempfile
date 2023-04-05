@@ -11,7 +11,6 @@ export async function tempfile_(
 	dir_path,
 	extension = ''
 ) {
-	extension = extension.startsWith('.') ? extension : `.${extension}`
 	if (dir_path == null) {
 		dir_path =
 			no_dom
