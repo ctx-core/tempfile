@@ -1,5 +1,11 @@
 # @ctx-core/tempfile
 
+## 1.0.39
+
+### Patch Changes
+
+- @ctx-core/string: ^12.3.1 -> ^12.3.2
+
 ## 1.0.38
 
 ### Patch Changes
