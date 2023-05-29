@@ -1,5 +1,12 @@
 # @ctx-core/tempfile
 
+## 1.0.42
+
+### Patch Changes
+
+- @ctx-core/uri: ^12.4.41 -> ^12.4.42
+- @ctx-core/dom: ^14.1.38 -> ^14.1.39
+
 ## 1.0.41
 
 ### Patch Changes
