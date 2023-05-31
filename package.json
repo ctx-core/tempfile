@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/tempfile",
-	"version": "1.0.43",
+	"version": "1.0.44",
 	"description": "Simple functions to create tempfiles",
 	"keywords": [
 		"ctx-core",
@@ -33,9 +33,9 @@
 	},
 	"dependencies": {
 		"@ctx-core/crypto": "^1.2.20",
-		"@ctx-core/dom": "^14.1.40",
+		"@ctx-core/dom": "^14.1.41",
 		"@ctx-core/string": "^12.3.2",
-		"@ctx-core/uri": "^12.4.42"
+		"@ctx-core/uri": "^12.4.43"
 	},
 	"devDependencies": {
 		"c8": "^7.14.0",
