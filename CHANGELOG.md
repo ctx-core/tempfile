@@ -1,5 +1,16 @@
 # @ctx-core/tempfile
 
+## 1.0.72
+
+### Patch Changes
+
+- version bump
+- Updated dependencies
+  - @ctx-core/crypto@1.2.21
+  - @ctx-core/dom@14.1.65
+  - @ctx-core/string@12.3.13
+  - @ctx-core/uri@12.4.55
+
 ## 1.0.71
 
 ### Patch Changes
