@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/tempfile",
-	"version": "1.0.89",
+	"version": "1.0.90",
 	"description": "Simple functions to create tempfiles",
 	"keywords": [
 		"ctx-core",
@@ -32,15 +32,15 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/crypto": "^1.2.21",
-		"@ctx-core/dom": "^14.2.3",
-		"@ctx-core/string": "^12.3.22",
-		"@ctx-core/uri": "^12.4.57"
+		"@ctx-core/crypto": "^1.2.22",
+		"@ctx-core/dom": "^14.2.4",
+		"@ctx-core/string": "^12.3.23",
+		"@ctx-core/uri": "^12.4.58"
 	},
 	"devDependencies": {
 		"c8": "^8.0.1",
 		"check-dts": "^0.7.2",
-		"tsx": "^3.13.0",
+		"tsx": "^3.14.0",
 		"typescript": "next",
 		"uvu": "^0.5.6"
 	},
