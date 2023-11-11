@@ -1,5 +1,29 @@
 # @ctx-core/tempfile
 
+## 1.1.0
+
+### Minor Changes
+
+- fix:types package.json exports
+- tsconfig:
+
+      "module": "ESNext"
+      "moduleResolution": "nodenext"
+      "target": "ESNext"
+
+### Patch Changes
+
+- package.json: - "svelte": "./src/index.js"
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/crypto@1.3.0
+  - @ctx-core/dom@15.1.0
+  - @ctx-core/string@12.4.0
+  - @ctx-core/uri@12.5.0
+
 ## 1.0.105
 
 ### Patch Changes

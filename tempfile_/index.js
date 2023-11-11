@@ -14,20 +14,20 @@ export async function tempfile_(
 	if (dir_path == null) {
 		dir_path =
 			no_dom
-			? await import('fs/promises')
-				.then(fs=>
-					import('os')
-						.then(os=>
-							fs.realpath(os.tmpdir())))
-			: null
+				? await import('fs/promises')
+					.then(fs=>
+						import('os')
+							.then(os=>
+								fs.realpath(os.tmpdir())))
+				: null
 	}
 	const crypto = await crypto_()
 	return url__join([
 		...(dir_path ? [dir_path] : []),
 		`${crypto.randomUUID()}${
 			extension
-			? extension.startsWith('.') ? extension : `.${extension}`
-			: ''
+				? extension.startsWith('.') ? extension : `.${extension}`
+				: ''
 		}`
 	])
 }
