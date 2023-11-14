@@ -1,5 +1,17 @@
 # @ctx-core/tempfile
 
+## 1.1.1
+
+### Patch Changes
+
+- tsx: ^4.0.0 -> ^4.1.2
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/crypto@1.3.1
+  - @ctx-core/string@12.4.1
+  - @ctx-core/uri@12.5.1
+  - @ctx-core/dom@15.1.1
+
 ## 1.1.0
 
 ### Minor Changes
