@@ -1,5 +1,16 @@
 # @ctx-core/tempfile
 
+## 1.1.2
+
+### Patch Changes
+
+- fix: missing tsconfig.json
+- Updated dependencies
+  - @ctx-core/crypto@1.3.2
+  - @ctx-core/dom@15.1.2
+  - @ctx-core/string@12.4.2
+  - @ctx-core/uri@12.5.2
+
 ## 1.1.1
 
 ### Patch Changes
