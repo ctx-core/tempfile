@@ -1,5 +1,16 @@
 # @ctx-core/tempfile
 
+## 1.1.3
+
+### Patch Changes
+
+- package.json: files: + \*.js
+- Updated dependencies
+  - @ctx-core/crypto@1.3.3
+  - @ctx-core/dom@15.1.3
+  - @ctx-core/string@12.4.3
+  - @ctx-core/uri@12.5.3
+
 ## 1.1.2
 
 ### Patch Changes
