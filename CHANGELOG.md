@@ -1,5 +1,18 @@
 # @ctx-core/tempfile
 
+## 1.1.21
+
+### Patch Changes
+
+- @ctx-core/uri: ^12.5.20 -> ^12.5.21
+- @ctx-core/crypto: ^1.3.20 -> ^1.3.21
+- @ctx-core/string: ^12.4.20 -> ^12.4.21
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/dom@15.1.21
+
 ## 1.1.20
 
 ### Patch Changes
