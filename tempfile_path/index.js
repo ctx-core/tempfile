@@ -1,13 +1,13 @@
-import { crypto_ } from '@ctx-core/crypto'
 import { no_dom } from '@ctx-core/dom'
-import { url__join } from '@ctx-core/uri'
+import { crypto_ } from 'ctx-core/crypto'
+import { url__join } from 'ctx-core/uri'
 /**
  * @param {string}[dir_path]
  * @param {string}[extension]
  * @returns {Promise<string>}
  * @private
  */
-export async function tempfile_(
+export async function tempfile_path_(
 	dir_path,
 	extension = ''
 ) {
@@ -31,3 +31,4 @@ export async function tempfile_(
 		}`
 	])
 }
+export { tempfile_path_ as tempfile_ }

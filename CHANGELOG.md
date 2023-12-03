@@ -1,5 +1,17 @@
 # @ctx-core/tempfile
 
+## 1.2.0
+
+### Minor Changes
+
+- - tempfile*path*: aliased by tempfile\_
+
+### Patch Changes
+
+- Updated dependencies
+- Updated dependencies
+  - ctx-core@4.8.2
+
 ## 1.1.33
 
 ### Patch Changes
