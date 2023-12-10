@@ -1,5 +1,11 @@
 # @ctx-core/tempfile
 
+## 1.2.15
+
+### Patch Changes
+
+- @ctx-core/dom: ^15.1.43 -> ^15.1.44
+
 ## 1.2.14
 
 ### Patch Changes
