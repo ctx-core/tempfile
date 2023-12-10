@@ -1,5 +1,14 @@
 # @ctx-core/tempfile
 
+## 1.2.12
+
+### Patch Changes
+
+- ctx-core: ^4.11.0 -> ^4.11.1
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/dom@15.1.41
+
 ## 1.2.11
 
 ### Patch Changes
