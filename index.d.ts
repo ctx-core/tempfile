@@ -1,1 +1,1 @@
-export * from './tempfile_path/index.js'
+export * from 'ctx-core/tempfile'

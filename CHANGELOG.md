@@ -1,5 +1,14 @@
 # @ctx-core/tempfile
 
+## 1.2.34
+
+### Patch Changes
+
+- - ∋ @ctx-core/dom
+- Updated dependencies
+- Updated dependencies
+  - ctx-core@4.18.0
+
 ## 1.2.33
 
 ### Patch Changes
