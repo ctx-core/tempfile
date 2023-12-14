@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/tempfile",
-	"version": "1.2.34",
+	"version": "1.2.35",
 	"description": "Simple functions to create tempfiles",
 	"keywords": [
 		"ctx-core",
@@ -37,7 +37,7 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"ctx-core": "^4.18.0"
+		"ctx-core": "^4.19.0"
 	},
 	"devDependencies": {
 		"c8": "^8.0.1",
