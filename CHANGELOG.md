@@ -1,5 +1,11 @@
 # @ctx-core/tempfile
 
+## 1.2.95
+
+### Patch Changes
+
+- ctx-core: ^5.31.0 -> ^5.31.1
+
 ## 1.2.94
 
 ### Patch Changes
