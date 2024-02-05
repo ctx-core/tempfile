@@ -1,5 +1,11 @@
 # @ctx-core/tempfile
 
+## 1.2.111
+
+### Patch Changes
+
+- ctx-core: ^5.38.0 -> ^5.38.1
+
 ## 1.2.110
 
 ### Patch Changes
