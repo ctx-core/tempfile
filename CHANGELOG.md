@@ -1,5 +1,13 @@
 # @ctx-core/tempfile
 
+## 1.2.139
+
+### Patch Changes
+
+- package.json: author: url,email
+- Updated dependencies
+  - ctx-core@6.6.1
+
 ## 1.2.138
 
 ### Patch Changes
