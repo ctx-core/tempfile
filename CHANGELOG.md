@@ -1,5 +1,12 @@
 # @ctx-core/tempfile
 
+## 1.2.148
+
+### Patch Changes
+
+- Updated dependencies
+  - ctx-core@7.0.0
+
 ## 1.2.147
 
 ### Patch Changes
