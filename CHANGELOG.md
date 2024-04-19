@@ -1,5 +1,11 @@
 # @ctx-core/tempfile
 
+## 1.2.157
+
+### Patch Changes
+
+- ctx-core: ^7.1.5 -> ^7.2.0
+
 ## 1.2.156
 
 ### Patch Changes
