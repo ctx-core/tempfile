@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/tempfile",
-	"version": "1.2.189",
+	"version": "1.2.190",
 	"description": "Simple functions to create tempfiles",
 	"keywords": [
 		"ctx-core",

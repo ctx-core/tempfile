@@ -1,5 +1,13 @@
 # @ctx-core/tempfile
 
+## 1.2.190
+
+### Patch Changes
+
+- chore: migrate scripts from pnpm to bun
+- Updated dependencies
+  - ctx-core@7.2.34
+
 ## 1.2.189
 
 ### Patch Changes
